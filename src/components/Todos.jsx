@@ -17,7 +17,8 @@ export const Todos = () => {
     
     useEffect(() => {
         dispatch(getAllTodos());
-    }, [todos])
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [])
 
     const getTodos = () => {
         if(currentTab === ALL_TODOS) {
