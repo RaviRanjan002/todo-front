@@ -1,3 +1,24 @@
+# Todo List
+It is a todolist where you can manage all your tasks as reminder and you can edit as well as delete the tasks which you have entered if u have completed your task then you can click on the task then a nice line through get over the task which can be seen in the done todos section and the active todos contains the todos which are not yet completed and all todos contains all the todos we can also remove all the todos at a time which are marked as done.
+
+
+
+## Fronted
+
+- Html
+- css
+- React
+- TypeScript
+- Redux
+- JavaScript
+
+## Backend
+- MongoDB
+- Express JavaScript
+- API
+- mongoose
+
+
 #Website Demo Link
 
 Link= https://toodoswebapp.netlify.app/
